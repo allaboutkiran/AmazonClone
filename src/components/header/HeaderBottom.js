@@ -41,7 +41,7 @@ export const HeaderBottom = () => {
                         <div className='w-full bg-amazon_light text-white py-2 px-6 flex items-center gap-4 sticky top-0 z-50'>
                             <AccountCircleIcon/>
                             
-                            <h3 className='font-titleFont font-bold text-lg tracking-wide '>Hello, Kiran</h3>
+                            <h3 className='font-titleFont font-bold text-lg tracking-wide '>Hello, Sign In</h3>
                             </div>
                             <div className='py-3 border-b-[1px] border-b-gray-300 '>
                                 <h3 className='text-lg font-titleFont font-semibold mb-1 px-6'>Digital Content & Devices</h3>
